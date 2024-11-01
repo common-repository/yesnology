@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YesNology\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-06 10:51+0000\n"
+"PO-Revision-Date: 2023-01-06 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-4.9.22\n"
+"X-Domain: YesNology"
+
+#: admin/class-yesnology-admin.php:99
+msgid ""
+"Here we are! Here is the shortcode to copy and paste where you want it to "
+"appear in a new form or in an existing one!"
+msgstr ""
+"Fatto! Ecco lo shortcode da copiare e incollare dove vuoi che appaia in un "
+"nuovo form o in uno esistente!"
+
+#: admin/class-yesnology-admin.php:99
+msgid "Copy"
+msgstr "Copia"
+
+#: admin/class-yesnology-admin.php:177
+msgid "Registration data"
+msgstr "Dati di registrazione"
+
+#: admin/class-yesnology-admin.php:183
+msgid "Username"
+msgstr ""
+
+#: admin/class-yesnology-admin.php:190
+msgid "Password"
+msgstr ""
+
+#: admin/class-yesnology-admin.php:197
+msgid "ClientId"
+msgstr ""
+
+#: admin/class-yesnology-admin.php:205
+msgid "SecretKey"
+msgstr ""
+
+#: admin/class-yesnology-admin.php:212
+msgid "Company data"
+msgstr "Dati aziendali"
+
+#: admin/class-yesnology-admin.php:234
+msgid "Company"
+msgstr "Azienda"
+
+#: admin/class-yesnology-admin.php:244
+msgid "Setup shortcode"
+msgstr "Imposta shortcode"
+
+#: admin/class-yesnology-admin.php:250
+msgid "Binder"
+msgstr "Raccoglitore"
+
+#: admin/class-yesnology-admin.php:260
+msgid "Thank you text"
+msgstr "Testo di ringraziamento"
+
+#: admin/class-yesnology-admin.php:266
+msgid "Confirm page"
+msgstr "Pagina di ringraziamento"
+
+#: admin/class-yesnology-admin.php:273
+msgid "Body color form"
+msgstr ""
+
+#: admin/class-yesnology-admin.php:280
+msgid "Text color form"
+msgstr ""
+
+#: admin/class-yesnology-admin.php:287
+msgid "Submit position"
+msgstr ""
+
+#: admin/submenu_page.php:103
+msgid "Select a binder"
+msgstr "Seleziona un raccoglitore"
+
+#: admin/submenu_page.php:118
+msgid "Select a company"
+msgstr "Seleziona un'azienda"
+
+#: admin/submenu_page.php:136
+msgid "Advanced settings"
+msgstr "Impostazioni avanzate"
+
+#: admin/submenu_page.php:150
+msgid "Setup YesNology plugin"
+msgstr "Configura il plug-in di YesNology"
+
+#: public/class-yesnology-public.php:92 public/class-yesnology-public.php:93
+msgid "Choose a region..."
+msgstr "Scegli una regione"
+
+#: public/class-yesnology-public.php:92 public/class-yesnology-public.php:93
+msgid "Choose a province..."
+msgstr ""
+"Scegli una provincia\n"
+
+#: public/class-yesnology-public.php:93
+msgid "Data sent successfully. Thank you!"
+msgstr "Dati inviati con successo. Grazie!"
+
+#: public/class-yesnology-public.php:358
+msgid "Select language..."
+msgstr "Seleziona la lingua..."
+
+#: public/class-yesnology-public.php:467
+msgid "Select at least one item!"
+msgstr "Seleziona almeno un elemento!"
+
+#: public/class-yesnology-public.php:500
+msgid "Choose the country..."
+msgstr "Scegli una nazione"
+
+#: public/class-yesnology-public.php:506
+msgid "Choose an option..."
+msgstr "Scegli un'opzione"
+
+#: public/class-yesnology-public.php:566
+msgid "Send"
+msgstr "Invia"
+
+#. Name of the plugin
+msgid "YesNology"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Through the plugin for YesNology it is possible to store the data entered by "
+"the user in a safe and reliable place 100% compliant with the GDPR. The "
+"plugin can be used for an unlimited number of collectors: collect newsletter "
+"subscriptions, customer satisfaction forms, customer surveys, ... and much "
+"more!!! Through a short code you can collect all the information you deem "
+"appropriate. Through the YesNology backend you will be able to consult the "
+"data collected and you will be able to use them in a form compliant with the "
+"GDPR. You will also be able to share the collected data with your CRM using "
+"the APIs that YesNology makes available to you. To use the plugin you need "
+"to have a subscription to YesNology. You can find more information at https:"
+"//yesnology.com. You can contact us at info@yesnology.com"
+msgstr ""
+"Tramite il plugin per YesNology è possibile archiviare i dati inseriti "
+"dall'utente in un luogo sicuro e affidabile al 100% conforme al GDPR. Il "
+"plug-in può essere utilizzato per un numero illimitato di raccoglitori: "
+"raccogliere sottoscrizioni alla newsletter, moduli di customer satisfaction "
+"del cliente, sondaggi clienti, ... e molto altro!!! Attraverso una shortcode "
+"puoi raccogliere tutte le informazioni che ritieni opportune. Attraverso il "
+"backend di YesNology potrai consultare i dati raccolti e potrai utilizzarli "
+"in forma compliant con il GDPR. Potrai anche condividere i dati raccolti con "
+"il tuo CRM utilizzando le API che YesNology ti mette a disposizione. Per "
+"utilizzare il plugin è necessario avere una sottoscrizione a YesNology. Puoi "
+"trovare maggiori informazioni su https://yesnology.com. Puoi contattarci a "
+"info@yesnology.com"
+
+#. URI of the plugin
+msgid "https://yesnology.com/en/how-does-it-work/"
+msgstr ""
+
+#. Author of the plugin
+msgid "BBUp srl"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://yesnology.com/en/abous-us/"
+msgstr ""

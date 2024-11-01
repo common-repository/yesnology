@@ -1,0 +1,100 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .yesnology-input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+  }
+  .yesnology-label {
+	font-size: 1em;
+  }
+  .yesnology-label-color {
+	font-size: 1em;
+	display: block;
+  }
+  .yesnology-item-radio {
+	display: block;
+  }
+  .yesnology-label-toggle {
+	font-size: 1em;
+  }
+  .yesnology-description {
+	font-size: 0.75em;
+  }
+  .yesnology-select,.yesnology-select-nations,.yesnology-select-regions,.yesnology-select-prov {
+	width: 100%;
+  }
+  /*.yesnology-select-toggle-container {
+  	padding: 12px 20px;
+  }*/
+  .form-control-color {
+	height: calc(1.5em + .75rem + 2px);
+	padding: .375rem;
+	width: 3rem;
+  }
+  .yesnology-select-toggle-container, .toggle-switchy {
+  	margin-right: 1rem !important;
+  }
+  .loader {
+	border: 16px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 16px solid #000;
+	width: 3px;
+	height: 3px;
+	-webkit-animation: spin 2s linear infinite;
+	animation: spin 1s linear infinite;
+	display: none;
+  }
+  @-webkit-keyframes spin {
+	0% { -webkit-transform: rotate(0deg); }
+	100% { -webkit-transform: rotate(360deg); }
+  }
+  @keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+  }
+  .iti__flag {background-image: url("flagImage/flags.png");}
+
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  	.iti__flag {background-image: url("flagImage/flags@2x.png");}
+  }
+  .iti {width: 100%;}
+  .button-submit {
+	display: inline-block;
+	font-weight: 400;
+	color: #212529;
+	text-align: center;
+	border: 1px solid transparent;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: .25rem;
+	color: #fff;
+	background-color: #007bff;
+}
+.checkbox-group-error {
+	background-color: #FFCCCC;
+	display: none; 
+}
+.button-submit:hover {
+  	background-color: #0069d9;
+
+}
+.pdfBorder {
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+.pdfContent {
+	height: 600px;
+	overflow-y: scroll;
+}
+.selectLanguage {
+	margin: 20px;
+}

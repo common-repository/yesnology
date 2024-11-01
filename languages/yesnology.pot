@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YesNology\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 17:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: YesNology"
+
+#. Author of the plugin
+msgid "BBUp srl"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://yesnology.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Through the plugin for YesNology it is possible to store data entered by the "
+"user in a safe and reliable place 100% compliant with the GDPR. The plugin "
+"can be used for an unlimited number of collectors: collect newsletter "
+"subscriptions, customer satisfaction forms, customer surveys, ... and much "
+"more!!! Through a short code you can collect all the information you deem "
+"appropriate. Through the YesNology backend you will be able to consult the "
+"data collected and you will be able to use them in a form compliant with the "
+"GDPR. You will also be able to share the collected data with your CRM using "
+"the APIs that YesNology makes available to you. To use the plugin you need "
+"to have a subscription to YesNology. You can find more information at https:"
+"//yesnology.com. You can contact us at info@yesnology.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "YesNology"
+msgstr ""
+
+msgid "Binder"
+msgstr ""
+
+msgid "CompanyId"
+msgstr ""
+
+msgid "ClientId"
+msgstr ""
+
+msgid "Display data"
+msgstr ""
+
+msgid "https://plugin.com/yesnology-uri/"
+msgstr ""
+
+msgid "Official yesnology plugin"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Registration data"
+msgstr ""
+
+msgid "SecretKey"
+msgstr ""
+
+msgid "Select a binder"
+msgstr ""
+
+msgid "TenentId"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "yesnology"
+msgstr ""
+
+msgid "Select a company"
+msgstr ""
+
+msgid "Setup YesNology plugin"
+msgstr ""
+
+msgid "Company data"
+msgstr ""
+
+msgid "Setup shortcode"
+msgstr ""
+
+msgid ""
+"Here we are! Here is the shortcode to copy and paste where you want it to "
+"appear in a new form or in an existing one!"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Not logged in"
+msgstr ""
+
+msgid "Thank you text"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Advanced settings"
+msgstr ""
+
+msgid "Confirm page"
+msgstr ""
+
+msgid "Select language..."
+msgstr ""
+
+msgid "Send"
+msgstr ""
